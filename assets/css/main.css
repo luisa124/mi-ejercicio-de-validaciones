@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+}
+body {
+    background: 	#F1F7FE;
+}
+h1 {
+    color: blue;
+}
+
+div label {
+    width: 25%;  
+}
+input {
+    color: mediumvioletred;
+}
+label {
+    color: darkmagenta;
+}
